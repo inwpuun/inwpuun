@@ -2,7 +2,7 @@
 
 # Hi, I'm Puun Pinyawat
 
-### Backend-focused Software Engineer building reliable financial and education systems
+### Backend-focused Software Engineer building reliable financial systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-puunpi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/puunpi)
 [![GitHub](https://img.shields.io/badge/GitHub-inwpuun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inwpuun)
@@ -72,7 +72,7 @@ I like building systems that are practical, maintainable, and measurable - from 
 - Built CMDB inventory for vulnerability and end-of-life dependency visibility across active services and hosting hardware.
 - Maintained feed and e-report systems for ticker persistence, multi-frontend support, and broker-specific reporting.
 
-### BEAM DATA CO., LTD.
+### BEAM DATA CO., LTD
 
 - Built Go backend services for a modular monolith using Hexagonal Architecture.
 - Integrated BBL payment gateway and Revenue Department SOAP VAT API.
@@ -87,11 +87,11 @@ I like building systems that are practical, maintainable, and measurable - from 
 
 ## Featured Projects
 
-| Project | Role | Impact |
-| --- | --- | --- |
+| Project             | Role                 | Impact                                                                                      |
+| ------------------- | -------------------- | ------------------------------------------------------------------------------------------- |
 | MyCourseVille Alpha | Full-Stack Developer | LMS replacement used by 6,000+ students for video playback, assignments, and grade tracking |
-| GenED Services | Full-Stack Developer | Course-request and public course discovery systems for instructors, admins, and students |
-| CEDT Intern Portal | Back-End Developer | Job-matching portal connecting 300+ students annually with 40+ partner companies |
+| GenED Services      | Full-Stack Developer | Course-request and public course discovery systems for instructors, admins, and students    |
+| CEDT Intern Portal  | Back-End Developer   | Job-matching portal connecting 300+ students annually with 40+ partner companies            |
 
 ## Architecture Interests
 
