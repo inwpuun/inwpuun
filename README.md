@@ -105,8 +105,12 @@ Database design        CI/CD automation            Maintainable services
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=inwpuun&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Puun's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inwpuun&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+<a href="https://github.com/inwpuun">
+  <img height="165" src="https://ghstats.dev/api/card?username=inwpuun&amp;theme=default&amp;hide_border=true" alt="Puun's GitHub stats" />
+</a>
+<a href="https://github.com/inwpuun?tab=repositories">
+  <img height="165" src="https://ghstats.dev/api/langs?username=inwpuun&amp;theme=default&amp;layout=bar&amp;hide_border=true" alt="Most used languages" />
+</a>
 
 </div>
 
