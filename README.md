@@ -106,10 +106,7 @@ Database design        CI/CD automation            Maintainable services
 <div align="center">
 
 <a href="https://github.com/inwpuun">
-  <img height="165" src="https://ghstats.dev/api/card?username=inwpuun&amp;theme=default&amp;hide_border=true" alt="Puun's GitHub stats" />
-</a>
-<a href="https://github.com/inwpuun?tab=repositories">
-  <img height="165" src="https://ghstats.dev/api/langs?username=inwpuun&amp;theme=default&amp;layout=bar&amp;hide_border=true" alt="Most used languages" />
+  <img width="100%" src="./assets/github-snapshot.svg" alt="GitHub snapshot for inwpuun: 25 public repositories, 14 followers, backend systems, and primary stack Java, Go, TypeScript, SQL, and PostgreSQL." />
 </a>
 
 </div>
